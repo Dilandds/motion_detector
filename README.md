@@ -111,7 +111,8 @@ cnts = imutils.grab_contours(cnts)
 		text = "Moving"
 
  ```
- ![This is an image](https://github.com/Dilandds/motion_detector/tree/main/images/11.png)
+ 
+ ![This is an image](/images/11.png)
 
  9. Status and date/time text are displayed on frames
 
