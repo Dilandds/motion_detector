@@ -112,7 +112,7 @@ cnts = imutils.grab_contours(cnts)
 
  ```
  
- <p align="center"> <img src= https://github.com/Dilandds/motion_detector/tree/main/images/11.png></p>
+ <p align="center"> <img src=/images/11.png></p>
 
  9. Status and date/time text are displayed on frames
 
