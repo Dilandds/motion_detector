@@ -112,7 +112,7 @@ cnts = imutils.grab_contours(cnts)
 
  ```
  
- ![This is an image](/images/11.png)
+ <p align="center">![This is an image](/images/11.png) </p>
 
  9. Status and date/time text are displayed on frames
 
