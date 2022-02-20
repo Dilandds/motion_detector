@@ -112,7 +112,11 @@ cnts = imutils.grab_contours(cnts)
 
  ```
  
+
+ <p align="center"> <img src=/images/22.png></p>
+ <p align="center"> Movemet is identified in threshold</p>
  <p align="center"> <img src=/images/11.png></p>
+ <p align="center"> Movemet is identified and drawn </p>
 
  9. Status and date/time text are displayed on frames
 
