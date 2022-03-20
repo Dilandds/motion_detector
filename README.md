@@ -152,3 +152,12 @@ time.sleep(2.0)
 2. To check the stablility for some period of time -
 
 count if text signal is not changed 
+
+
+## Optimizations
+
+To change the sensitivity (To identify smaller or larger motions ) of the motion detection change the value of the area ( 490 ) 
+
+```
+if cv2.contourArea(c) <490:
+```			
