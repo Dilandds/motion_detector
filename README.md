@@ -19,20 +19,13 @@ OpenCV
 
 ## Deployment
 
-Install OpenCV
+1.Install OpenCV
 
-1.In Pycharm
-
-
-2.Windows
-
-3.Ubuntu
-
-
-
-```bash
-  npm run deploy
+2.Add input video path
 ```
+vs = cv2.VideoCapture("venv/images/vid.mp4")
+```
+3.Run the code
 
 
 ## Explanation
