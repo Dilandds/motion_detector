@@ -142,6 +142,13 @@ time.sleep(2.0)
 
 1. Use above text = "Stable"/"Unstable" signals to triger a alarm
 
+<p align="center"> <img src=/images/44.png></p>
+<p align="center"> Status is shown on the output</p>
+<p align="center"> <img src=/images/33.png></p>
+<p align="center"> Status Signal on console</p>
+
+
+
 2. To capture a image after vision is stable for some period of time
 
 count if text signal is not changed 
