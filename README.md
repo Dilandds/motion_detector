@@ -144,7 +144,7 @@ time.sleep(2.0)
 
 <p align="center"> <img src=/images/44.png></p>
 <p align="center"> Status is shown on the output</p>
-<p align="center"> <img src=/images/33.png></p>
+<p align="center"> <img src=/images/33.jpg></p>
 <p align="center"> Status Signal on console</p>
 
 
