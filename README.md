@@ -149,6 +149,6 @@ time.sleep(2.0)
 
 
 
-2. To capture a image after vision is stable for some period of time
+2. To check the stablility for some period of time -
 
 count if text signal is not changed 
