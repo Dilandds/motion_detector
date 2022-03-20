@@ -19,13 +19,13 @@ OpenCV
 
 ## Deployment
 
-1.Install OpenCV
+1. Install OpenCV
 
-2.Add input video path
+2. Add input video path
 ```
 vs = cv2.VideoCapture("venv/images/vid.mp4")
 ```
-3.Run the code
+3. Run the code
 
 
 ## Explanation
